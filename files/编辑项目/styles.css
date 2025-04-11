@@ -74,10 +74,7 @@
   height:50px;
   background:inherit;
   background-color:rgba(242, 242, 242, 0);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(228, 228, 228, 1);
+  border:none;
   border-left:0px;
   border-top:0px;
   border-right:0px;
